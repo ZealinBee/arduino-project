@@ -23,8 +23,6 @@ void loop() {
   // Clear the LCD
   lcd.clear();
 
-
-
 //   Display analogValue1 (Potentiometer) on the first row
   lcd.setCursor(0, 0);
   lcd.print("X-position");
